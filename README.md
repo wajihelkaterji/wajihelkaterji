@@ -13,7 +13,7 @@ to under a day, context synthesis across GitHub/Slack/Confluence, and internal k
 
 ## Career sketch
 
-7+ years across SE, engineering management, and a founder run.
+7+ years across Solution Engineering, Engineering Management, Development, and a Founder run.
 
 ## How I work
 
