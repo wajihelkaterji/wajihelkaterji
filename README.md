@@ -8,7 +8,7 @@ Technical engagement for enterprise partner integrations of Alpaca's Broker API.
 
 ## What I'm into right now
 
-Cursor and Claude for the parts of my own job that should have been automated five years ago — RFP turnaround compressed from 1–2 weeks 
+Cursor and Claude for the parts of my own job that should have been automated five years ago: RFP turnaround compressed from 1–2 weeks 
 to under a day, context synthesis across GitHub/Slack/Confluence, and internal knowledge artifacts that save my team from answering the same questions every week.
 
 ## Career sketch
